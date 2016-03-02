@@ -8,9 +8,14 @@ A collection of things I learn day to day.
 
 ### Categories
 
+* [Apps](#apps)
 * [Rails](#rails)
 
 ---
+
+### Apps
+
+- [iTerm - Command (⌘) + Click to open a file](apps/iterm-command-click-open-file.md)
 
 ### Rails
 
